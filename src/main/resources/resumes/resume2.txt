@@ -1,0 +1,9 @@
+Name: Jane Smith
+Email: jane.smith@example.com
+Experience:
+- 3 years as a Machine Learning engineer.
+- Developed NLP models using Python and TensorFlow.
+Skills:
+- Python, TensorFlow, NLP, Data Analysis, SQL
+Education:
+- MSc Data Science, ABC University

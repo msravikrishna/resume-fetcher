@@ -1,0 +1,9 @@
+Name: John Doe
+Email: john.doe@example.com
+Experience:
+- 5 years as a Python developer, specializing in Django and Flask frameworks.
+- Worked on cloud infrastructure using AWS.
+Skills:
+- Python, Django, Flask, AWS, Docker, REST APIs
+Education:
+- BSc Computer Science, XYZK University
